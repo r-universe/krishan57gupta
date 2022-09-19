@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ROSeq"]
+	path = ROSeq
+	url = https://github.com/krishan57gupta/roseq
+	shallow = true
+	registered = true
